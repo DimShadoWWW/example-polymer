@@ -1,6 +1,6 @@
 {
-  "name": "SHOP",
-  "short_name": "SHOP",
+  "name": "Demo",
+  "short_name": "Demo",
   "icons": [{
       "src": "images/shop-icon-128.png",
       "sizes": "128x128",
